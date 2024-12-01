@@ -12,5 +12,8 @@ This is my practice notebook
 plot(mtcars$mpg, mtcars$wt)
 ```
 
-
+#plotting cool stuff
+```{r}
+plot(mtcars$cyl, mtcars$hp)
+```
 #Hello world this is my second comment pushed 
